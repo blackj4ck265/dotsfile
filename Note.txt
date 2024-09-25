@@ -1,0 +1,9 @@
+PLEASE MAKE .xinitrc TO LAUNCH, or just use your Display Manager (ie. lightdm or sddm, etc.)
+
+For startpage, copy the startpage directory into wherever you want, and set it as new tab in firefox settings.
+For more info on startpage (Which is a fork of Prismatic Night), visit https://github.com/dbuxy218/Prismatic-Night#Firefoxtheme
+ALL DONE! Reboot for all changes to take place!
+Open issues on github or ask me on discord or whatever if you face issues.
+Install Museo Sans as well. From Adobe I believe.
+If the bar doesn't work, use tint2conf and set stuff up, if you're hopelessly lost, open an issue.
+For instructions regarding usage on VirtualMachines, please refer to the VM folder of the repo.

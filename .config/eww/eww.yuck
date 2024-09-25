@@ -1,0 +1,14 @@
+(defwindow ex
+           :monitor 0
+           :geometry (geometry :x "0%"
+                               :y "20px"
+                               :width "90%"
+                               :height "30px"
+                               :anchor "top center")
+           :windowtype "dock"
+           :reserve (struts :distance "50px" :side "top")
+           :exclusive false   ; 在 Wayland 中独占显示
+           :stacking "bg"  ; 使窗口覆盖在其他窗口上
+  	   :floating true;
+  "hellow world")
+
